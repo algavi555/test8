@@ -75,17 +75,6 @@ spd2old=spd2;
 
 motionVals[0]=spd1;
 
-/* if((GPIOB->IDR&GPIO_Pin_8)!=0)
-{ GPIOB->BRR= GPIO_Pin_1;
- }
-
- else{
- GPIOB->BSRR=GPIO_Pin_12;
- GPIOB->BSRR= GPIO_Pin_1;};
- 
-  */
-
-
 targedSpd1=*m1;
 targedSpd2=*m2;
 motionVals[1]=motor_power1;

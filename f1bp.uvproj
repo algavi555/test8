@@ -462,11 +462,6 @@
               <FilePath>.\user\src\main.c</FilePath>
             </File>
             <File>
-              <FileName>crc.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\user\src\crc.c</FilePath>
-            </File>
-            <File>
               <FileName>rs485hal.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\user\src\rs485hal.c</FilePath>
@@ -475,26 +470,6 @@
               <FileName>hwconf.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\user\src\hwconf.c</FilePath>
-            </File>
-            <File>
-              <FileName>rs485.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\user\src\rs485.c</FilePath>
-            </File>
-            <File>
-              <FileName>position_controller.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\user\src\position_controller.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c_enc.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\user\src\i2c_enc.c</FilePath>
-            </File>
-            <File>
-              <FileName>spi_enc.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\user\src\spi_enc.c</FilePath>
             </File>
           </Files>
         </Group>
